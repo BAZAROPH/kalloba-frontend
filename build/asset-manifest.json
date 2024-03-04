@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4af8d70d.css",
+    "main.js": "/static/js/main.eec5da9e.js",
+    "static/media/BecomeSellerVideo.mp4": "/static/media/BecomeSellerVideo.93dde2f5f1304cd88de3.mp4",
+    "static/media/Avatar.jpg": "/static/media/Avatar.e0b2795fa7324be518a0.jpg",
+    "static/media/RegisterSellerSuccess.png": "/static/media/RegisterSellerSuccess.a9b616eccf53482e9b01.png",
+    "static/media/Steps.png": "/static/media/Steps.ab1bfa8aff63bade8f4f.png",
+    "static/media/SellerPage.png": "/static/media/SellerPage.71d21c7d5dc940fa4378.png",
+    "static/media/oumaru.png": "/static/media/oumaru.de7ef65421cda8b259b3.png",
+    "static/media/sellerbg.jpg": "/static/media/sellerbg.53c10d5735057e82c9be.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/logo.png": "/static/media/logo.a07bb0575a1be0bb02e7.png",
+    "static/media/logoDark.png": "/static/media/logoDark.5508ecb20499d9fed8ae.png",
+    "static/media/Networking.png": "/static/media/Networking.8bafce98d85ea76f9b3c.png",
+    "static/media/World.png": "/static/media/World.360d03de221249f801e1.png",
+    "static/media/Help.png": "/static/media/Help.27de378d3ac2c3c89ecf.png",
+    "static/media/Support.png": "/static/media/Support.4031ab2760e4b4878e65.png",
+    "static/media/Free.png": "/static/media/Free.9aa71bc119505b4d7df0.png",
+    "static/media/Chat.png": "/static/media/Chat.5bb03639a682a6a8fd4e.png",
+    "index.html": "/index.html",
+    "main.4af8d70d.css.map": "/static/css/main.4af8d70d.css.map",
+    "main.eec5da9e.js.map": "/static/js/main.eec5da9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af8d70d.css",
+    "static/js/main.eec5da9e.js"
+  ]
+}

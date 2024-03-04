@@ -1,0 +1,1 @@
+rsync -av -e 'ssh -p 5022' ./ yynyxqmz@node9-ca.n0c.com:~/public_html
